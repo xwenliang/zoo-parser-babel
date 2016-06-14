@@ -1,6 +1,6 @@
 # Babel for fis-zoo
 
-```json
+```javascript
     roadmap: {
         path: [
             {
